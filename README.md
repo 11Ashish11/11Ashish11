@@ -6,7 +6,9 @@
 - 📈 I'd like to say myself Competitive Programmer even though I'm not expert...
 - 🔭 I’m currently pursuing B.Tech in Computer Science...
 - 🌱 I’ve been some competitive programming for some time now...
+- :movie_camera: I love watching movies and web series ...
 - ⚡ C++ Programming and Data Structure...
+
 - 📫 Connect with me on [LinkedIn][3].
 - :gem: You can checkout my other coding profiles here
 - :beginner: [Codechef][5]    &ensp; &ensp; &ensp;  :beginner: [Codeforces][6] 
@@ -15,7 +17,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1]
+<!-- You can find me on [![Twitter][1.2]][1]  -->
 
 <!-- Icons -->
 
