@@ -28,7 +28,7 @@
 
 [1]: https://twitter.com/56Bhoya
 [3]: https://www.linkedin.com/in/ashishbhoya/
-[4]: https://ashishbhoya.github.io
+[4]: https://ashishbhoya.netlify.app/
 [5]: https://www.codechef.com/users/ashishx11
 [6]: https://codeforces.com/profile/11ashish11
 [7]: https://www.hackerrank.com/ashishbhoya
