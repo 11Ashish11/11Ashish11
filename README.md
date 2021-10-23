@@ -3,7 +3,7 @@
 ** Check My [Portofolio][4]
 
 # 👨🏻‍💻 About Me
-- 📈 I'm 3rd year undergrad student at Lovely Professional University.
+- 📈 I'm 4th year undergrad student at Lovely Professional University.
 - 🔭 I’m currently pursuing B.Tech in Computer Science...
 - 🌱 I’ve been doing some competitive programming for some time now...
 - :movie_camera: I love watching movies and web series ...
@@ -11,9 +11,10 @@
 
 - 📫 Connect with me on [LinkedIn][3].
 - :gem: You can checkout my coding profiles here
-- :beginner: [Codechef][5]    &ensp; &ensp; &ensp;  :beginner: [Codeforces][6] 
+- :beginner: [Codechef1][5]    &ensp; &ensp; :beginner: [Codeforces][6] 
 - :beginner: [Hackerrank][7]  &ensp; &ensp;  :beginner: [Stopstalk][8] 
-- :beginner: [GFG][9]   &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;&ensp; :beginner: [Leetcode][10] 
+- :beginner: [GFG][9]   &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;&ensp; :beginner: [Leetcode][10]
+- :beginner: [Codechef2][11]   &ensp; &ensp; &ensp;&ensp; :beginner: [10FastestFingers][12] 
 
 <!-- Actual text -->
 
@@ -35,6 +36,9 @@
 [8]: https://www.stopstalk.com/user/profile/11ashish11
 [9]: https://auth.geeksforgeeks.org/user/ashishbhoya/practice/
 [10]: https://leetcode.com/11ashish11/
+[11]: https://www.codechef.com/users/light_18
+[12]: https://10fastfingers.com/user/2747932/
+
 
 
 # 🛠 Languages and Tools
