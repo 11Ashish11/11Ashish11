@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Ashish+Bhoya;SDE+II+at+Amazon;Incoming+UMD+Graduate+Student;Distributed+Systems+Engineer;The+Force+is+Strong+With+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Ashish+Bhoya;SDE+at+Amazon;Distributed+Systems+Engineer;The+Force+is+Strong+With+Scalable+Systems" />
 
 <br>
 
