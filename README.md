@@ -11,7 +11,7 @@
 *"I find your lack of scalability disturbing."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/ashishbhoya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=firefox-browser)](https://ashishbhoya.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=firefox-browser)](https://ashishxbhoya.netlify.app)
 
 </div>
 
@@ -135,7 +135,7 @@ SDE  @ Amazon
 
 💼 LinkedIn: https://linkedin.com/in/ashishbhoya
 
-🌐 Portfolio: https://ashishbhoya.netlify.app
+🌐 Portfolio: https://ashishxbhoya.netlify.app
 
 💻 GitHub: https://github.com/11Ashish11
 
