@@ -1,55 +1,150 @@
-### Hi there! I am [Ashish][3] 👋
+<div align="center">
 
-** Check My [Portofolio][4]
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Ashish+Bhoya;SDE+II+at+Amazon;Incoming+UMD+Graduate+Student;Distributed+Systems+Engineer;The+Force+is+Strong+With+Scalable+Systems" />
 
-# 👨🏻‍💻 About Me
-- 📈 I'm 4th year undergrad student at Lovely Professional University.
-- 🔭 I’m currently pursuing B.Tech in Computer Science...
-- 🌱 I’ve been doing some competitive programming for some time now...
-- :movie_camera: I love watching movies and web series ...
-- ⚡ C++ is the language I prefer while learning data structures and algorithms
+<br>
 
-- 📫 Connect with me on [LinkedIn][3].
-- :gem: You can checkout my coding profiles here
-- :beginner: [Codechef1][5]    &ensp; &ensp; :beginner: [Codeforces][6] 
-- :beginner: [Hackerrank][7]  &ensp; &ensp;  :beginner: [Stopstalk][8] 
-- :beginner: [GFG][9]   &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;&ensp; :beginner: [Leetcode][10]
-- :beginner: [Codechef2][11]   &ensp; &ensp; &ensp;&ensp; :beginner: [10FastestFingers][12] 
+# 🌌 Ashish Bhoya
 
-<!-- Actual text -->
+### ⚔️ The Sith Engineer
 
-<!-- You can find me on [![Twitter][1.2]][1]  -->
+*"I find your lack of scalability disturbing."*
 
-<!-- Icons -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/ashishbhoya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=firefox-browser)](https://ashishbhoya.netlify.app)
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+</div>
 
-<!-- Links to your social media accounts -->
+---
 
-[1]: https://twitter.com/56Bhoya
-[3]: https://www.linkedin.com/in/ashishbhoya/
-[4]: https://ashishxbhoya.netlify.app/
-[5]: https://www.codechef.com/users/ashishx11
-[6]: https://codeforces.com/profile/11ashish11
-[7]: https://www.hackerrank.com/ashishbhoya
-[8]: https://www.stopstalk.com/user/profile/11ashish11
-[9]: https://auth.geeksforgeeks.org/user/ashishbhoya/practice/
-[10]: https://leetcode.com/11ashish11/
-[11]: https://www.codechef.com/users/light_18
-[12]: https://10fastfingers.com/user/2747932/
+## 🌠 Transmission From The Galactic Network
 
+```yaml
+name: Ashish Bhoya
 
+current_role:
+  title: Software Development Engineer
+  company: Amazon
 
-# 🛠 Languages and Tools
-![](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)
-![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DS-CPP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/System-MS_Office-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-VsCode-yellowgreen)
-![](https://img.shields.io/badge/Tools-CodeBlocks-yellowgreen)
+journey:
+  - Lovely Professional University
+  - Whatfix
+  - Zluri
+  - Amazon
 
+specializations:
+  - Distributed Systems
+  - Backend Engineering
+  - Cloud Infrastructure
+  - System Design
+  - Browser Extensions
 
-#                                                            Profile Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{11Asish11}/count.svg)
+languages:
+  - Java
+  - TypeScript
+  - JavaScript
+  - C++
+
+current_focus:
+  - Building scalable production systems
+  - Cloud Computing
+  - Large Scale Architecture
+  - Distributed Systems
+
+status: Deploying across the galaxy 🚀
+```
+
+---
+
+---
+
+## 🛠️ Arsenal
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,ts" />
+</p>
+
+### Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### Databases & Messaging
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka" />
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🌌 Galactic Journey
+
+```text
+Padawan @ LPU
+       │
+       ▼
+Software Engineer @ Whatfix
+       │
+       ▼
+Software Engineer @ Zluri
+       │
+       ▼
+SDE  @ Amazon
+       │
+       ▼
+???
+```
+
+*The next chapter is still being written...*
+
+---
+
+## 📊 Force Statistics
+
+<p align="center">
+  <img height="170" src="[https://github-readme-stats.vercel.app/api?username=11Ashish11&show_icons=true&theme=tokyonight](https://github-stats-extended.vercel.app/api?username=11Ashish11)" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=11Ashish11&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Across The Galaxy
+
+💼 LinkedIn: https://linkedin.com/in/ashishbhoya
+
+🌐 Portfolio: https://ashishbhoya.netlify.app
+
+💻 GitHub: https://github.com/11Ashish11
+
+📧 Email: [ashish.bhoya.56@gmail.com](mailto:ashish.bhoya.56@gmail.com)
+
+---
+
+> "The Force will be with you. Always."
+>
+> — Obi-Wan Kenobi
+
+⭐ Building systems today. Learning how to build better ones tomorrow.
